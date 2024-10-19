@@ -1,0 +1,33 @@
+.clock {
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    border-radius: 5%;
+    font-size: 72px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 450px;
+    height: 380px;
+    color: white;
+}
+
+p1 {
+    filter: blur(0px);
+}
+
+
+body {
+    background: linear-gradient(90deg, #f12711, #0077ff);
+}
+
+button {
+    background: rgba(255, 255, 255);
+    border-radius: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
