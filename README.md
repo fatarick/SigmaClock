@@ -1,5 +1,5 @@
 # SigmaClock
-Another Day, Another "Im Bored" Ahh Repo
+Another Day, Another "Im Bored" Ahh Project
 
 # How did i made that?
 
