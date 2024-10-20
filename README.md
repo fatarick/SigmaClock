@@ -16,8 +16,11 @@ The black/light mode thing also is simple. when you click the button it replaces
 
 # Change Background Color
 If you don't like the background color, you can change it on styles.css (light mode) and stylesb.css (dark mode) there:
+
 body {
+
     background: linear-gradient(**90deg, #f12711, #0077ff**);
+    
 }
 
 The text in bold is the gradient settings. You can write on your Search Engine something like "gradient creator" and then choose a gradient that you like, copy the colors and paste there: (**90deg, #f12711, #0077ff**).
