@@ -37,3 +37,7 @@ button {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: blue;
 }
+
+button:hover {
+    background-color: dodgerblue;
+}
