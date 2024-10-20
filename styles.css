@@ -34,4 +34,5 @@ button {
     transition-duration: 0.4s;
     border-radius: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
 }
